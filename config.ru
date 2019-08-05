@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>THIS IS THE COOLEST APP EVER</h1>
+            <h1>On this Day we shall create some cool things so as to deploy them</h1>
           </hgroup>
 
 
