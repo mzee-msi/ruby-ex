@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Testing Ruby</h1>
+            <h1>Ruby is nothing for ppl with</h1>
           </hgroup>
 
 
