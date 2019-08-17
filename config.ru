@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Ruby is nothing for ppl with</h1>
+            <h1>Ruby is nothing for ppl with Weak Nerves</h1>
           </hgroup>
 
 
