@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>On this Day we shall create some cool things so as to deploy them</h1>
+            <h1>Testing Ruby</h1>
           </hgroup>
 
 
